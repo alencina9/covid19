@@ -6,4 +6,3 @@ En el primero de ellos podremos observar el número de casos acumulados, detecta
 
 Los datos que se han empleado para la obtención de las gráficas provienen del ministerio de sanidad.
 
-Como ejemplo dejaré los csv referentes a dos días. El 18/03/2020 y el 19/03/2020.
